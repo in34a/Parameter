@@ -24,7 +24,9 @@ dnscache.wuxianshudian.com
 
 
 子域名
-使用tun tunnel dnstunnel 作dns隧道的域名
+使用tun tunnel dnstunnel
+
+作dns隧道的域名
 
 控制解析
 
