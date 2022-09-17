@@ -24,11 +24,15 @@ dnscache.wuxianshudian.com
 
 
 子域名
+
 使用tun tunnel dnstunnel
+
 
 作dns隧道的域名
 
+
 控制解析
+
 
 
 ddns.wuxianshudian.cn
@@ -46,7 +50,10 @@ ddns.wuxia.shudian.info
 
 ddns.wuxianshudian.org
 
+
 利用公共dns实现加速和隐藏真实IP地址
+
+
 cache.euxianshudian.cn
 
 
